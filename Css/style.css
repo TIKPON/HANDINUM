@@ -1,0 +1,395 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    font-family: poppins, sans-serif;
+}
+
+.ma-marge {
+    padding: 0% 67px;
+}
+
+.head-bar {
+    height: 97px;
+    background-color: #ffff;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.252);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+    left: 0%;
+    right: 0%;
+    z-index: 999999;
+    
+}
+
+.liens-groupés {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 50px;
+    list-style: none;
+
+
+}
+
+.les-liens {
+    text-decoration: none;
+    color: #204b9b;
+    font-size: 22px;
+    font-weight: 300;
+}
+
+.boutton {
+    width: 171px;
+    height: 49px;
+    background-color: #f6a317;
+    border-radius: 30px;
+    color: #ffff;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.image1 {
+    display: flex;
+    position: relative;
+    position: absolute;
+    gap: 50px;
+}
+
+.section-1 {
+    display: flex;
+    height: 727px;
+    align-items: center;
+    padding-top: 165px;
+     }
+
+.Titre1 {
+    color: #204b9b;
+    font-size: 78px;
+    font-weight: 700;
+    width: 598.78px;
+    height: 132px;
+    line-height: 80px;
+    top: 221px;
+    left: 63px;
+    margin-bottom: 31px;
+}
+
+.Titre2 {
+    font-size: 25px;
+    font-weight: 400;
+    margin-bottom: 45px;
+    width: 576.75px;
+    height: 135px;
+    top: 384px;
+    left: 67px;
+}
+
+.boutton2 {
+    width: 218px;
+    height: 63px;
+    background-color: #f6a317;
+    border-radius: 30px;
+    color: #ffff;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.section-2 {
+    display: flex;
+    height: 724px;
+    background-color: #204b9b;
+    justify-content: center;
+    position: relative;
+}
+
+.Titre3 {
+    text-align: center;
+    position: absolute;
+    top: 2%;
+    display: flex;
+    color: #ffff;
+}
+
+.les-ellipse {
+    display: flex;
+    gap: 67px;
+    flex-wrap: nowrap;
+    align-items: flex-end;
+    position: absolute;
+    top: 20%;
+}
+
+.promo1 {
+    display: flex;
+    gap: 67px;
+    position: absolute;
+    top: 70%;
+    left: 20%;
+}
+
+.promo2 {
+    display: flex;
+    gap: 67px;
+
+    position: absolute;
+    top: 70%;
+    left: 46%;
+}
+
+.promo3 {
+    display: flex;
+    gap: 67px;
+
+    position: absolute;
+    top: 70%;
+    left: 72%;
+}
+
+.apprenant1 {
+    display: flex;
+    gap: 67px;
+    position: absolute;
+    top: 74%;
+    left: 12%;
+}
+
+.apprenant2 {
+    display: flex;
+    gap: 67px;
+    position: absolute;
+    top: 74%;
+    left: 39%;
+}
+
+.apprenant3 {
+    display: flex;
+    gap: 67px;
+    position: absolute;
+    top: 74%;
+    left: 65%;
+}
+
+.but1 {
+    display: flex;
+    gap: 67px;
+    position: absolute;
+    top: 78%;
+    left: 19%;
+}
+
+.but2 {
+    display: flex;
+    gap: 67px;
+    position: absolute;
+    top: 78%;
+    left: 45%;
+}
+
+.but3 {
+    display: flex;
+    gap: 67px;
+    position: absolute;
+    top: 78%;
+    left: 71%;
+}
+.boutton3{
+    width: 191px;
+    height: 48px;
+    background-color: #ffff;
+    border-radius: 20px;
+    color: #204b9b;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 500;
+}
+.section-3{
+    display: flex;
+    height: 597px;
+    background-color: #ffff;
+    justify-content: center;
+    position: relative;
+}
+.eleve{
+    position: absolute;
+    top: 10%;
+    left: 10%;
+}
+.eleve1{
+    position: absolute;
+    top: 15%;
+    left: 32%;
+}
+.Titre4{
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    color: #204b9b;
+}
+.Titre5{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+}
+.texte{
+    position: absolute;
+    top: 45%;
+    left: 50%;
+}
+.section-4{
+    display: flex;
+    height: 494px;
+    background-color: #d8e2f6;
+    justify-content: center;
+    position: relative;
+}
+.newlester{
+    display: flex;
+    width: 1142px;
+    height: 350px;
+    background-color: #204b9b;
+    border-radius: 8px;
+    position: absolute;
+    top: 15%;
+
+}
+.icone-new{
+    position: absolute;
+    top: 78px;
+    left: 352px;
+    width: 264px;
+    height: 153px;
+}
+.icone1{
+    position: absolute;
+    top: -20px;
+    left: 920px;
+}
+.texte1{
+    position: absolute;
+    top:77px;
+    left: 581px;
+    color: #ffff;
+}
+.texte2{
+    position: absolute;
+    top:101px;
+    left: 581px;
+    color: #ffff;
+}
+.texte3{
+    position: absolute;
+    top:150px;
+    left: 581px;
+    color: #ffff;
+}
+.barre{
+    display: flex;
+    width: 693px;
+    height: 30px;
+    background-color: #ffff;
+    border-radius: 8px;
+    position: absolute;
+    top: 264px;
+    left: 205px;
+
+}
+.texte4{
+    position: absolute;
+    top: 2px;
+    left: 3px; 
+    color: #b7b7b7;
+}
+.abonner{
+    width: 171px;
+    height: 30px;
+    background-color: #f6a317;
+    border-radius: 0px 4px 4px 0px;
+    color: #ffff;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    font-size: 9px;
+    font-weight: 700;
+    position: absolute;
+    top: 0px;
+    left: 525px;
+}
+.footer{
+   display: flex;
+    height: 259px;
+    background-color: #661010;
+    top: 2628px;
+}
+
+/*Début de style de responsivité*/
+@media screen and (max-width: 425px) {
+    .head-bar{
+       height: 75px;
+       display: flex;
+       justify-content: center;
+       
+          }
+    .section-1{
+        
+        padding-top: 165px;
+        
+      
+    }
+    .liens-groupés{
+        display: none;
+    }
+    .image1{
+        flex-direction: column;
+        display: flex;
+        justify-content: center;
+    }
+    .les-ellipse{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .promo{
+        flex-direction: column;
+        display: flex;
+        justify-content: center;
+    }
+    .boutton3{
+        flex-direction: column;
+        display: flex;
+        justify-content: center;
+    }
+    .section-2{
+        flex-direction: column;
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+    .Titre1{
+        text-align: center;
+    }
+    .Titre2{
+        text-align: center;
+    }
+}
+
+
+
+
+
+/*Fin de style de responsivité*/
